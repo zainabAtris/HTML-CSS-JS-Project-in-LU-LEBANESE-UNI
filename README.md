@@ -1,2 +1,2 @@
 # Economical-Issue-
-HTML-CSS-JS PROJECT 
+HTML-CSS-JS Project
